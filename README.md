@@ -26,7 +26,7 @@ So, Shall we start?
 
 ### 1.  Let’s Download or update zoom, IF you haven’t:
 
-    <img width="1470" alt="Screenshot 2024-11-16 at 2 34 14 AM" src="https://github.com/user-attachments/assets/f6832d9b-68e4-4386-87e7-47c1a3b3e51d">
+<img width="1470" alt="Screenshot 2024-11-16 at 2 34 14 AM" src="https://github.com/user-attachments/assets/f6832d9b-68e4-4386-87e7-47c1a3b3e51d">
 
 
 ### 2. Steps to download Ngrok:
@@ -74,6 +74,7 @@ ngrok http http://localhost:4000
 
    * refer //server.js file.
    * To use this: First install node.
+     
   If you do not have node installed, install it first:
 
    ```
@@ -94,6 +95,7 @@ ngrok http http://localhost:4000
 
 
 ### 5. Create a new file .env:
+
    ```
    ZOOM_CLIENT_ID=your_zoom_client_id
    ZOOM_CLIENT_SECRET=your_zoom_client_secret
@@ -120,21 +122,29 @@ ngrok http http://localhost:4000
 
 ### 8. What next?
 
-Nothing, Your Conversation ChatBot is ready!!! 
-Your chatbot will now have a conversation history, which will enable it to end up being more logical and less awkward. As a part of the code, previous messages are saved in memory and attached each time to the subsequent requests to the Cerebras API. This will help the AI to grasp the flow of the conversation and be able to recall what has been said before in the conversation.
+Nothing, Your Conversational ChatBot is ready!!! 
 
-* You can also launch your app in Zoom Team Chat with configured shortcuts that will trigger the defined action. 
+This chatbot will now have a conversation history, which will enable it to end up being more logical and less awkward. As a part of the code, previous messages are saved in memory and attached each time to the subsequent requests to the Cerebras API. This will help the AI to grasp the flow of the conversation and be able to recall what has been said before in the conversation.
+
+
+* You can also launch your app in Zoom Team Chat with configured shortcuts that will trigger the defined action.
+  
 
   <img width="714" alt="Screenshot 2024-11-16 at 2 12 41 AM" src="https://github.com/user-attachments/assets/003bfbb0-f72f-4b8e-ab09-902675bcac3b">
 
 -It should look like this:
 
+
   <img width="312" alt="Screenshot 2024-11-16 at 2 13 21 AM" src="https://github.com/user-attachments/assets/5b96dd0d-e4df-4c44-bd83-45e42b83753a">
+
+
 
 You know, what was the best part?
 I was stuck in between the coding part, my Bot motivated me by saying kind words. 
 
 <img width="1181" alt="Screenshot 2024-11-16 at 2 24 06 AM" src="https://github.com/user-attachments/assets/387ca009-a338-47ed-b2d2-bbb779058da1">
+
+
 
 That was my experience with AI tools. I would love to know your story with AI...
 
