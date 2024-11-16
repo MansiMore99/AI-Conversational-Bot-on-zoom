@@ -26,7 +26,7 @@ that provides helpful responses to user queries on a wide range of topics within
 Without wasting time on introduction, let’s go straight to the practical part.
 So, Shall we start?
 
-### 1.  Let’s Download or update zoom, IF you haven’t:
+### 1.  Let’s Download or update zoom, If you haven’t:
 
 <img width="1470" alt="Screenshot 2024-11-16 at 2 34 14 AM" src="https://github.com/user-attachments/assets/f6832d9b-68e4-4386-87e7-47c1a3b3e51d">
 
