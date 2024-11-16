@@ -1,6 +1,6 @@
 # AI Conversational ChatBot on Zoom 🤖
 
-For me, Zoom was just for meetings.🧑‍💻 I never imagined that I would build an AI Chatbot on it. Isn’t it amazing to have a bot that can assist you with your queries during virtual meetings(especially when you're sleeping in between the meetings)? 🎓 I'm a student. So if you ask me, yes!!! It is a crazy thing. 
+For me, Zoom was just for meetings.🧑‍💻 I never imagined that I would build an AI Chatbot on it. Isn’t it amazing to have a bot that can assist you with your queries during virtual meetings (especially when you're sleeping in between the meetings)? 🎓 I'm a student. So if you ask me, yes!!! It is a crazy thing. 
 That’s what my next project is about!!
 
 🤔 I built another AI chatbot, (oh, wait)...
@@ -11,11 +11,11 @@ that provides helpful responses to user queries on a wide range of topics within
 
 ## Functionalities:
 
-* Responds to user messages in Zoom Team Chat using Cerebras' language models.
+* Respond to user messages in Zoom Team Chat using Cerebras' language models.
 * Maintains conversation history for context-aware responses.
 * Can be used in direct messages or invoked in group chats and channels.
 * Provides helpful information, answers questions, assists with tasks, and engages in discussions on various topics with exceptional speed and accuracy.
-* At the end, I will share my experience on how My Bot assisted me during the project when I got stuck.
+* In the end, I will share my experience on how My Bot assisted me during the project when I got stuck.
 
 ## Architecture:
 
@@ -26,7 +26,7 @@ that provides helpful responses to user queries on a wide range of topics within
 Without wasting time on introduction, let’s go straight to the practical part.
 So, Shall we start?
 
-### 1.  Let’s Download or update zoom, If you haven’t:
+### 1.  Let’s Download or update Zoom, If you haven’t:
 
 <img width="1470" alt="Screenshot 2024-11-16 at 2 34 14 AM" src="https://github.com/user-attachments/assets/f6832d9b-68e4-4386-87e7-47c1a3b3e51d">
 
@@ -111,7 +111,7 @@ ngrok http http://localhost:4000
    * Generating an Access token (refer token.js)
 
 
-### 7. Let's move onto [Cerebras:](https://inference-docs.cerebras.ai/quickstart)
+### 7. Let's move on [Cerebras:](https://inference-docs.cerebras.ai/quickstart)
 
    * Install the Cerebras Inference library
      ```
