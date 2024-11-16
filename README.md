@@ -21,7 +21,7 @@ An **Intelligent AI ChatBot** that provides helpful responses to user queries on
 ![image](https://github.com/user-attachments/assets/e6f02d29-09f2-4af4-b86d-0e423e084716)
 
 
-Without wasting time on boring talk, let’s start with hands-on.
+Without wasting time on introduction, let’s go straight to the practical part.
 So, Shall we start?
 
 ### 1.  Let’s Download or update zoom, IF you haven’t:
