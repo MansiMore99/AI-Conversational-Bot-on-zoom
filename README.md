@@ -134,7 +134,8 @@ This chatbot will now have a conversation history, which will enable it to end u
 
   <img width="714" alt="Screenshot 2024-11-16 at 2 12 41 AM" src="https://github.com/user-attachments/assets/003bfbb0-f72f-4b8e-ab09-902675bcac3b">
 
--It should look like this:
+
+-It should look like:
 
 
   <img width="312" alt="Screenshot 2024-11-16 at 2 13 21 AM" src="https://github.com/user-attachments/assets/5b96dd0d-e4df-4c44-bd83-45e42b83753a">
@@ -143,6 +144,7 @@ This chatbot will now have a conversation history, which will enable it to end u
 
 You know, what was the best part?
 I was stuck in between the coding part, my Bot motivated me by saying kind words. 
+
 
 <img width="1181" alt="Screenshot 2024-11-16 at 2 24 06 AM" src="https://github.com/user-attachments/assets/387ca009-a338-47ed-b2d2-bbb779058da1">
 
@@ -154,7 +156,7 @@ That was my experience with AI tools. I would love to know your story with AI...
 ## References:
 
 * [Documents](https://developers.zoom.us/docs/team-chat-apps/create/)
-* [Cerebras:](https://inference-docs.cerebras.ai/quickstart)
+* [Cerebras](https://inference-docs.cerebras.ai/quickstart)
 
 ## 💬 Feedback & Support
 
