@@ -1,11 +1,13 @@
-# AI Conversational ChatBot on Zoom
+# AI Conversational ChatBot on Zoom 🤖
 
-For me, Zoom was just for meetings. I never imagined that I would build an AI Chatbot on it. Isn’t it amazing to have a bot that can assist you with your queries during virtual meetings(especially when you're sleeping in between the meetings)? I'm a student. So if you ask me, yes!!! It is a crazy thing. 
+For me, Zoom was just for meetings.🧑‍💻 I never imagined that I would build an AI Chatbot on it. Isn’t it amazing to have a bot that can assist you with your queries during virtual meetings(especially when you're sleeping in between the meetings)? 🎓 I'm a student. So if you ask me, yes!!! It is a crazy thing. 
 That’s what my next project is about!!
 
-I built another AI chatbot, (oh, wait)...
+🤔 I built another AI chatbot, (oh, wait)...
 
-An **Intelligent AI ChatBot** that provides helpful responses to user queries on a wide range of topics within their Zoom conversation discussions by using Cerebras' advanced language models on the Zoom Developers’ platform. 
+✨ An **Intelligent AI ChatBot** 
+
+that provides helpful responses to user queries on a wide range of topics within their Zoom conversation discussions by using Cerebras' advanced language models on the Zoom Developers’ platform.😊
 
 ## Functionalities:
 
