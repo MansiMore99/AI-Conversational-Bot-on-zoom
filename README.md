@@ -1,10 +1,30 @@
 # AI Conversational ChatBot on Zoom 🤖
 
+For me, Zoom was just for meetings.🧑‍💻 I never imagined that I would build an AI Chatbot on it. Isn’t it amazing to have a bot that can assist you with your queries during virtual meetings (especially when you’re sleeping in between the meetings)? 🎓 I’m a student. So if you ask me, yes!!! It is a crazy thing. That’s what my next project is about!!
+
+🤔 I built another AI chatbot, (oh, wait)…
+
+✨ An Intelligent AI ChatBot, 
+
+that provides helpful responses to user queries on various topics within their Zoom conversation discussions using Cerebras’ advanced language models on the Zoom Developers’ platform.😊
+
+### 📌 **Functionalities:**
+
+✅ Respond to user messages in Zoom Team Chat using Cerebras’ language models.
+✅ Maintains conversation history for context-aware responses.
+✅ Can be used in direct messages or invoked in group chats and channels.
+✅ Provides helpful information, answers questions, assists with tasks, and engages in discussions on various topics with exceptional speed and accuracy.
+
+### **Architecture:**
+
+  <img width="1092" alt="Screenshot 2024-12-08 at 5 34 52 PM" src="https://github.com/user-attachments/assets/06848685-4faf-496f-a64d-e85272c5bec4">
+  
+  
+  Without wasting time on the introduction, let’s go straight to the practical part. So, shall we start?
 
 ### 1.  Let’s Download or update Zoom, If you haven’t:
 
 <img width="1470" alt="Screenshot 2024-11-16 at 2 34 14 AM" src="https://github.com/user-attachments/assets/f6832d9b-68e4-4386-87e7-47c1a3b3e51d">
-
 
 ### 2. Steps to download Ngrok:
     
@@ -22,7 +42,7 @@ Expose your tunnel:
 ngrok http http://localhost:4000
 ```
 
-### 3. Moving onto the [Zoom Developer Platform:](https://developers.zoom.us/)
+### 3. 📌 Moving onto the [Zoom Developer Platform:](https://developers.zoom.us/)
 
 ### **Create a Team Chat App:**
 
