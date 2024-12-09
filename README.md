@@ -58,7 +58,7 @@ This chatbot will now have a conversation history, which will enable it to end u
 
 -It should look like:
 
-   ![image](https://github.com/user-attachments/assets/69d342e6-04af-4384-a74b-237b852298d7)
+   <img width="1006" alt="Screenshot 2024-12-08 at 5 54 20 PM" src="https://github.com/user-attachments/assets/52d2c3d9-4804-48c3-90e1-4da7910c378e">
 
 
 ## References:
