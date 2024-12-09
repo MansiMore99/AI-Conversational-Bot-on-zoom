@@ -92,14 +92,15 @@ ngrok http http://localhost:4000
      key differences in control flow between traditional software and agentic workflows. 
      This makes it a crucial topic for developers interested in building with LLMs.
 
+
      <img width="1462" alt="Screenshot 2024-12-08 at 5 00 27 PM" src="https://github.com/user-attachments/assets/131652f3-9552-491d-a593-bb2bf31fb0d4">
 
+
    * You will get a brief idea of how to use the Cerebras API in code.
+     
 
      <img width="1463" alt="Screenshot 2024-12-08 at 5 04 52 PM" src="https://github.com/user-attachments/assets/4fc45a07-f69e-475d-b333-26582c4591d9">
 
-
-   * Install the Cerebras Inference library
 
    * Install the Cerebras Inference library
      ```
