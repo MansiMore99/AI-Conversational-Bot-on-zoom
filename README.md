@@ -20,6 +20,7 @@ that provides helpful responses to user queries on various topics within their Z
   * Maintains conversation history for context-aware responses.
   * Can be used in direct messages or invoked in group chats and channels.
   * Provides helpful information, answers questions, assists with tasks, and engages in discussions on various topics with exceptional speed and accuracy.
+  * In the end, I will tell you the story of my experience with how my Bot assisted me during the project when I got stuck.
 
 ### 🛠️ **Architecture:**
 
