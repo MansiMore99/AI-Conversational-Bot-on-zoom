@@ -7,16 +7,20 @@ I never imagined that I would build an AI Chatbot on it. Isn’t it amazing to h
 
 🤔 I built another AI chatbot, (oh, wait)…
 
-✨ An Intelligent AI ChatBot, 
+✨ An Intelligent AI ChatBot, that
+
+
+## ChatBot On Zoom using Cerebras API:
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 that provides helpful responses to user queries on various topics within their Zoom conversation discussions using Cerebras’ advanced language models on the Zoom Developers’ platform.😊
 
 ### 📌 **Functionalities:**
 
-✅ Respond to user messages in Zoom Team Chat using Cerebras’ language models.
-✅ Maintains conversation history for context-aware responses.
-✅ Can be used in direct messages or invoked in group chats and channels.
-✅ Provides helpful information, answers questions, assists with tasks, and engages in discussions on various topics with exceptional speed and accuracy.
+  * Respond to user messages in Zoom Team Chat using Cerebras’ language models.
+  * Maintains conversation history for context-aware responses.
+  * Can be used in direct messages or invoked in group chats and channels.
+  * Provides helpful information, answers questions, assists with tasks, and engages in discussions on various topics with exceptional speed and accuracy.
 
 ### 🛠️ **Architecture:**
 
