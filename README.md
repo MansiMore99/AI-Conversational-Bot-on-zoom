@@ -1,30 +1,5 @@
 # AI Conversational ChatBot on Zoom 🤖
 
-For me, Zoom was just for meetings.🧑‍💻 I never imagined that I would build an AI Chatbot on it. Isn’t it amazing to have a bot that can assist you with your queries during virtual meetings (especially when you're sleeping in between the meetings)? 🎓 I'm a student. So if you ask me, yes!!! It is a crazy thing. 
-That’s what my next project is about!!
-
-🤔 I built another AI chatbot, (oh, wait)...
-
-✨ An **Intelligent AI ChatBot** 
-
-that provides helpful responses to user queries on a wide range of topics within their Zoom conversation discussions by using Cerebras' advanced language models on the Zoom Developers’ platform.😊
-
-## Functionalities:
-
-* Respond to user messages in Zoom Team Chat using Cerebras' language models.
-* Maintains conversation history for context-aware responses.
-* Can be used in direct messages or invoked in group chats and channels.
-* Provides helpful information, answers questions, assists with tasks, and engages in discussions on various topics with exceptional speed and accuracy.
-* In the end, I will share my experience on how My Bot assisted me during the project when I got stuck.
-
-## Architecture:
-
-
-![image](https://github.com/user-attachments/assets/e6f02d29-09f2-4af4-b86d-0e423e084716)
-
-
-Without wasting time on introduction, let’s go straight to the practical part.
-So, Shall we start?
 
 ### 1.  Let’s Download or update Zoom, If you haven’t:
 
@@ -113,6 +88,18 @@ ngrok http http://localhost:4000
 
 ### 7. Let's move on [Cerebras:](https://inference-docs.cerebras.ai/quickstart)
 
+
+   * Before diving into Cerebras Inference, you can go through the documentation of AI Agent Bootcamp on the Cerebras site. It helped me to understand the overview of the overall 
+     project.You can also explore the components that make up agentic workflows and highlight some key differences in control flow between traditional software and agentic workflows. 
+     This makes it a crucial topic for developers interested in building with LLMs.
+
+   <img width="1462" alt="Screenshot 2024-12-08 at 5 00 27 PM" src="https://github.com/user-attachments/assets/131652f3-9552-491d-a593-bb2bf31fb0d4">
+
+   * You will get a brief idea of how to use the Cerebras API in code.
+
+   <img width="1463" alt="Screenshot 2024-12-08 at 5 04 52 PM" src="https://github.com/user-attachments/assets/4fc45a07-f69e-475d-b333-26582c4591d9">
+
+
    * Install the Cerebras Inference library
      ```
      npm install @cerebras/cerebras_cloud_sdk
@@ -151,29 +138,6 @@ I was stuck in between the coding part, my Bot motivated me by saying kind words
 
 
 That was my experience with AI tools. I would love to know your story with AI...
-
-
-## References:
-
-* [Documents](https://developers.zoom.us/docs/team-chat-apps/create/)
-* [Cerebras](https://inference-docs.cerebras.ai/quickstart)
-
-## 💬 Feedback & Support
-
-I'm always looking to improve! Share your thoughts and suggestions:
-
-- **Email:** mansi.more943@gmail.com
-- **GitHub:** [MansiMore99](https://github.com/MansiMore99)
-- **Linkedin:** [MansiMore](https://linkedin.com/in/mansi-more-0943)
-
-Also, feel free to check out my articles on Medium.
-
-- **Mediam:** [MansiMore99](https://medium.com/@mansi.more943)
-
-
-## 📢 Contributing
-
-Would you be interested in contributing? I welcome your improvements and ideas. You can Fork the repository, make changes, and submit a pull request!
 
 
 <a href="https://www.linkedin.com/in/mansi-more-0943/"> ![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
